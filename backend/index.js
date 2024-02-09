@@ -36,6 +36,6 @@ app.get("/", (req, res) => {
   res.send("Hello world");
 });
 
-app.listen(8088, () => {
-  console.log("server running on port 8080");
+app.listen(80, () => {
+  console.log("server running on port 80");
 });
