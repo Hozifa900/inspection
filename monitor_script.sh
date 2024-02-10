@@ -1,0 +1,1 @@
+echo "A file has been added to the folder."
