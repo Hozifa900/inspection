@@ -1,1 +1,1 @@
-echo "A file has been added to the folder."
+echo "the monitoring working very well"
