@@ -63,7 +63,7 @@ export default function Hero() {
         <Row>
           <Col xs={12} md={6}>
             <p className="hero-title">
-              Give to me Give to you <br /> MIU Students From the script
+              Give to me Give to you <br /> MIU Students From the script ^_^
             </p>
           </Col>
           <Col
